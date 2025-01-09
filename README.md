@@ -6,14 +6,13 @@
 
 ### 🚀 About Me
 
+<!--
 I'm a *junior Information Technology and Computer Science student* at *Nile University*, I have built a strong foundation in software engineering through my academic journey. My passion for learning extends beyond the classroom, as I actively pursue self-guided education in web development, showcasing my initiative and commitment. I am eager to collaborate with experienced professionals and contribute meaningfully to any team I join.
 
 I’m thrilled about the opportunity to connect! I am deeply interested in computer science, programming languages, and applying technology to solve practical challenges. Currently, as a junior at Nile University, my focus is on **C# and .NET**. Through the *Digital Egypt Pioneers Initiative (DEPI)*, I am gaining hands-on experience with *.NET Core Web API, ASP.NET MVC, and SQL*, preparing to apply these skills in my upcoming Capstone Project.
 
 Beyond academics, I serve as a *Junior Teaching Assistant* for *Data Structures & Algorithms* and *Advanced Computer Programming* at Nile University, a role that has sharpened my teaching skills and enabled me to help students strengthen their programming fundamentals.
-
-
-
+-->
 
 I'm a junior Information Technology and Computer Science student at Nile University, passionate about leveraging technology to solve real-world problems. My academic journey, coupled with self-guided learning, has equipped me with a solid foundation in software engineering and web development.
 
@@ -22,6 +21,7 @@ I am currently focusing on C# and .NET technologies through the Digital Egypt Pi
 Beyond academics, I serve as a Junior Teaching Assistant for courses like Data Structures & Algorithms and Advanced Computer Programming. These roles have honed my teaching skills and strengthened my understanding of core programming concepts.
 
 I’m eager to collaborate, learn, and contribute meaningfully to impactful projects. Let's connect and create something amazing together!
+
 ---
 
 ### 💡 Technical Skills
