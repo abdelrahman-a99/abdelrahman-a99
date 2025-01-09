@@ -77,7 +77,9 @@ I’m eager to collaborate, learn, and contribute meaningfully to impactful proj
 ### 📫 How to reach me
 
 - *Email*: [A.AHMED2299@nu.edu.eg](mailto:A.AHMED2299@nu.edu.eg)
+<!--
 - *LinkedIn*: [linkedin.com/in/abdelrahman-ahmed](https://www.linkedin.com/in/abdelrahman-ahmed-9b0828252/)
+-->
 
 ---
 
