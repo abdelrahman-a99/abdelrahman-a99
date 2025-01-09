@@ -26,16 +26,15 @@ I’m eager to collaborate, learn, and contribute meaningfully to impactful proj
 
 ### 💡 Technical Skills
 
-- *Languages*: C, C++, C#, Python, Java, HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL
-- *Frontend Development*: React, Bootstrap, Tailwind CSS, Responsive Web Design
-- *Backend Development*: .NET Core, ASP.NET, Django, Node.js, RESTful APIs  
-- *Databases*: Microsoft SQL Server, MySQL, SQLite, MongoDB
+- *Languages*: C, C++, C#, Python, Java, JavaScript (ES6+), TypeScript, SQL
+- *Frontend Development*: HTML5, CSS3, Bootstrap, Tailwind CSS, Responsive Web Design, React
+- *Backend Development*: Django, Node.js, RESTful APIs, .NET Core, ASP.NET, Microservices, MVC, MVVM, Event-Driven Architecture
+- *Databases*: Microsoft SQL Server, MySQL, SQLite, MongoDB, Database Design
 - *Version Control*: Git, GitHub
-- *Software Design & Architecture*: Database Design (Normalization, ER Diagrams, Indexing), Microservices Architecture, MVC, MVVM, Event-Driven Architecture
+- *Software Design & Patterns*: SOLID Principles, Singleton, Factory, Observer
 - *Data Structures & Algorithms*: Advanced Data Structures (Trees, Graphs, Heaps, Hash Maps), Algorithm Optimization (Time/Space Complexity), Sorting & Searching Algorithms, Dynamic Programming
-- *Design Patterns*: Singleton, Factory, Observer, SOLID Principles
 - *Performance Optimization*: Asynchronous Programming (Async/Await, Promises)
-- *Tools & Practices*: Visual Studio Code, Postman, CI/CD, Agile Methodology, Unit Testing (JUnit, pytest)
+- *Tools*: Visual Studio Code, Postman, CI/CD, Agile Methodology, Unit Testing (JUnit, pytest)
 
 ---
 
