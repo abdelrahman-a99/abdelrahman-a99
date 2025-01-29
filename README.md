@@ -26,9 +26,9 @@ I’m eager to collaborate, learn, and contribute meaningfully to impactful proj
 
 ### 💡 Technical Skills
 
-- *Languages*: C, C++, C#, Python, Java, JavaScript (ES6+), TypeScript, SQL
+- *Languages*: C, C++, C#, Python, Java, JavaScript (ES6+), TypeScript, PHP, SQL
 - *Frontend Development*: HTML5, CSS3, Bootstrap, Tailwind CSS, Responsive Web Design, React
-- *Backend Development*: Django, Node.js, RESTful APIs, .NET Core, ASP.NET, Microservices, MVC, MVVM, Event-Driven Architecture
+- *Backend Development*: Flask, Django, Node.js, RESTful APIs, .NET Core, ASP.NET, Microservices, MVC, MVVM, Event-Driven Architecture
 - *Databases*: Microsoft SQL Server, MySQL, SQLite, MongoDB, Database Design
 - *Version Control*: Git, GitHub
 - *Software Design & Patterns*: SOLID Principles, Singleton, Factory, Observer
@@ -51,6 +51,7 @@ I’m eager to collaborate, learn, and contribute meaningfully to impactful proj
 
 ### 📚 Projects
 
+<!--
 - *Sorting Algorithms Visualizer* (Python)  
   A Python application to visualize common sorting algorithms like Merge Sort, Quick Sort, and Bubble Sort.
 
@@ -62,6 +63,7 @@ I’m eager to collaborate, learn, and contribute meaningfully to impactful proj
 
 - *Pharmacy App* (Java)  
   An Android-based app to manage pharmacy operations, including prescriptions and inventory management.
+-->
 
 ---
 
