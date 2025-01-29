@@ -104,7 +104,7 @@ I’m always eager to learn, collaborate, and contribute to innovative projects.
   An Android-based app for managing pharmacy operations, including prescriptions and inventory tracking.
 -->
 
-- **🏥 AI-Powered Hospital Management System** *(Django, Machine Learning)*  
+- **🏥 AI-Powered Hospital Management System** *(Django, Deep Learning)*  
   - A web-based system that allows doctors and patients to manage appointments.  
   - Integrated **AI-based hair loss analysis** using **CNN models** to assess baldness levels and provide recommendations.  
 
@@ -114,9 +114,6 @@ I’m always eager to learn, collaborate, and contribute to innovative projects.
 - **🐾 Animal Classification using CNN** *(TensorFlow, Python)*  
   - Built a **deep learning model** using CNN to classify **10 different animal species** from images.  
   - Achieved **high accuracy** using **Transfer Learning** techniques.  
-
-- **📈 Sales Forecasting using Machine Learning** *(Scikit-learn, Pandas)*  
-  - Developed a **time-series forecasting model** to predict **future sales trends** based on historical data.  
 
 ---
 
@@ -132,11 +129,6 @@ I’m always eager to learn, collaborate, and contribute to innovative projects.
 
 📧 **Email**: [A.AHMED2299@nu.edu.eg](mailto:A.AHMED2299@nu.edu.eg)  
 
-<!--
-- *Email*: [A.AHMED2299@nu.edu.eg](mailto:A.AHMED2299@nu.edu.eg)
-
-- *LinkedIn*: [linkedin.com/in/abdelrahman-ahmed](https://www.linkedin.com/in/abdelrahman-ahmed-9b0828252/)
--->
 ---
 
 ### 🔗 Connect with me
@@ -146,17 +138,3 @@ I’m always eager to learn, collaborate, and contribute to innovative projects.
 ---
 
 Looking forward to collaborating on exciting projects! 🚀
-<!--
-**abdelrahman-a99/abdelrahman-a99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
