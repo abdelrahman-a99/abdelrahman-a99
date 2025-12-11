@@ -1,12 +1,12 @@
 ## Hi there I'm Abdelrahman Ahmed👋
 
-### 💻 Fullstack Developer | 🎓 Junior Computer Science Student
+### 💻 Fullstack Developer | 🎓 Senior Computer Science Student
 
 ---
 
 ### 🚀 About Me
 
-I'm a **junior Computer Science student** at **Nile University** and graduate of **DEPI’s Full Stack program**. Passionate about **.NET development**, **competitive programming**, and scalable solutions. Strong analytical skills with hands-on experience in **full-stack development**.
+I'm a **senior Computer Science student** at **Nile University** and graduate of **DEPI’s Full Stack program**. Passionate about **.NET development**, **competitive programming**, and scalable solutions. Strong analytical skills with hands-on experience in **full-stack development**.
 
 Beyond academics, I serve as a **Junior Teaching Assistant** for **Data Structures & Algorithms** and **Advanced Computer Programming** at Nile University, a role that has strengthened my problem-solving and mentoring skills.
 
@@ -15,10 +15,10 @@ I’m eager to collaborate, learn, and contribute to impactful projects. Let's c
 ---
 
 ### **Full-Stack Development**  
-- **Languages**: Python, C/C++, Java, C#, JavaScript (ES6+), TypeScript, PHP, SQL
+- **Languages**: Python, C/C++, Java, C#, JavaScript, TypeScript
 - **Frontend**: HTML5, CSS3, Bootstrap, Tailwind CSS, React, Next.js  
-- **Backend**: .NET Core, ASP.NET MVC, Flask, Django, Node.js, RESTful APIs
-- **Databases**: Microsoft SQL Server, MySQL, SQLite, MongoDB  
+- **Backend**: .NET Core, ASP.NET MVC, Django, Flask, RESTful APIs
+- **Databases**: Microsoft SQL Server, MySQL, MongoDB  
 
 ### **Data Science & Machine Learning**  
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
@@ -29,19 +29,19 @@ I’m eager to collaborate, learn, and contribute to impactful projects. Let's c
 ### **Other Skills**  
 - **Version Control**: Git, GitHub  
 - **Software Design & Patterns**: SOLID Principles, Singleton, Factory, Observer  
-- **Tools & Methodologies**: Visual Studio Code, Postman, CI/CD, Agile, Unit Testing (JUnit, pytest)
+- **Tools & Methodologies**: Visual Studio Code, Postman, CI/CD, Agile, Unit Testing
 
 ---
 
 ### 💼 Experience
 
-- **Mentor** @ **Google Developer Group, Nile University**
+- **Mentor** @ **Google Developer Group (GDG), Nile University**
   - Mentored **120+** students in **full stack development** using **.NET**, **SQL Server**, **Git**, and **Next.js**.
   • Provided code reviews and technical feedback across teams.
 
 - **Full-Stack Development Graduate** @ **Digital Egypt Pioneers Initiative (DEPI)**
   - Developed scalable applications using **C#** and **.NET Core**.
-  - Built responsive front-end interfaces using **HTML5**, **CSS3**, and **JavaScript**.
+  - Built responsive front-end interfaces using **HTML**, **CSS**, and **JS**.
   - Gained experience in **Docker**, **unit testing**, **REST APIs**, and **SQL Server**.
 
 - **Junior Teaching Assistant** @ **Nile University**
@@ -52,21 +52,25 @@ I’m eager to collaborate, learn, and contribute to impactful projects. Let's c
 
 ### 📚 Projects
 
-- **🏥 Hospital Management System** *(Django)*  
+- **🏥 Hospital Management System** *(Django, PostgreSQL, HTML/CSS/JS)*  
   - Developed a Django web app for doctors and patients to manage medical appointments.   
 
-- **📊 Economic Growth Prediction** *(Python, Pandas, Matplotlib)*  
+- **📊 Economic Growth Prediction** *(Python, Pandas, NumPy, Machine Learning)*  
   - Aggregated **Ookla** and **VIIRS** datasets to correlate **internet speed** and **urban development**.  
 
-- **🐾 Animal Classification** *(Python, TensorFlow)*  
+- **🐾 Animal Classification** *(Python, TensorFlow, CNN)*  
   - Built a **CNN model** achieving **85%** accuracy across **10 animal categories**.  
 
+- **💻 Personal Portfolio Website** *(Next.js, Tailwind CSS)* 
+  - A responsive developer portfolio showcasing projects and experience.
+  
 ---
 
 ### 🌱 Currently Learning
 
 - Software Engineering
-- Machine Learning
+- Reinforcement Learning
+- Transformers
 
 ---
 
@@ -78,7 +82,7 @@ I’m eager to collaborate, learn, and contribute to impactful projects. Let's c
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ahmed-9b0828252/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ahmed-fouad/)
 
 ---
 
