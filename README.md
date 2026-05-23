@@ -101,14 +101,6 @@ I build full-stack web applications and AI-integrated software systems using mod
 
 ---
 
-## GitHub Stats
-
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahman-a99&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-a99&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## Connect With Me
 
 - Portfolio: [abdelrahmanahmedfouad.vercel.app](https://abdelrahmanahmedfouad.vercel.app/)
