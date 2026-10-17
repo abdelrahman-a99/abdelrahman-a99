@@ -1,13 +1,15 @@
 # Hi, I'm Abdelrahman Ahmed 👋
 
-**🎓 Senior Computer Science Student @ Nile University**  
-**💻 Full Stack Developer | .NET • Django • Next.js | AI/RAG Systems | Codeforces Specialist**
+**🎓 Computer Science Graduate @ Nile University**  
+**🤖 AI Engineer | NLP, RAG & LLM Applications | Full-Stack Developer**
 
-I build full-stack web applications and AI-integrated software systems using modern backend, frontend, and deployment tools. My work focuses on practical platforms, clean architecture, responsive user experiences, RAG-based assistants, and service orchestration.
+I build AI-powered applications combining NLP, Retrieval-Augmented Generation (RAG), reinforcement learning, and LLM orchestration. With a background in full-stack development, I connect AI pipelines with backend APIs and user-facing web applications.
 
-- 🎓 Senior CS student at **Nile University** — GPA: **3.6/4.0**
-- 💻 Full-stack focus: **.NET, Django, FastAPI, Next.js, React, TypeScript**
+- 🎓 Computer Science graduate from **Nile University (2026)** — GPA: **3.62/4.00**
+- 🏆 **1st Place Graduation Project — NUPAL**, Nile University, 2026
+- 🧑‍💻 Completed an **NLP internship at NTI**, working with deep learning, Transformers, and RAG applications
 - 🤖 AI systems focus: **RAG, LLM orchestration, AI agents, RL-based recommendations**
+- 💻 Full-stack focus: **.NET, Django, FastAPI, Next.js, React, TypeScript**
 - 🧠 Competitive programming: **Codeforces Specialist**, max rating **1428**
 - 👨‍🏫 Mentored and taught **300+ students** through Nile University, GDG, MSC, and iSchool
 - 🌍 Based in **Giza, Egypt**
@@ -23,6 +25,17 @@ I build full-stack web applications and AI-integrated software systems using mod
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### AI / ML / NLP
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![BM25](https://img.shields.io/badge/BM25-455A64?style=flat)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -46,45 +59,31 @@ I build full-stack web applications and AI-integrated software systems using mod
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### AI / ML / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
 ---
 
 ## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| **[NUPAL — AI Academic & Career Advising Platform](https://github.com/abdelrahman-a99/NUPAL-Frontend)** | Unified advising platform for Nile University students combining academic policy Q&A, semester planning, career guidance, RAG-based policy chatbot, RL-based course recommendations, and AI routing. | Next.js, React, TypeScript, ASP.NET Core, MongoDB, FastAPI, RAG, RL, LLM orchestration |
-| **[بَيِّنَة — Arabic RAG Islamic Assistant](https://bayyinah-alpha.vercel.app/)** | Arabic-first RTL chat interface for an Islamic AI assistant grounded in Qur’an, tafsir, Sunnah, and curated narrative resources, with streaming responses and citation-aware rendering. | Next.js, TypeScript, Tailwind CSS, Supabase Auth, shadcn/ui, Vercel, RAG |
+| **[NUPAL — AI Academic & Career Advising Platform](https://github.com/abdelrahman-a99/NUPAL-Frontend)** 🏆 | 1st Place Graduation Project at Nile University. Combines bilingual policy Q&A using FAISS, BM25, and cross-encoder reranking; a Dueling Double DQN course recommender; and LLM-based request routing. | Python, PyTorch, FastAPI, RAG, RL, ASP.NET Core, Next.js, MongoDB |
+| **[بَيِّنَة — Arabic RAG Islamic Assistant](https://bayyinah-alpha.vercel.app/)** | Arabic RAG assistant grounded in Qur’an, tafsir, and hadith resources, combining FAISS retrieval, a seven-layer validation pipeline, and an RTL chat interface with streaming responses and citations. | Python, RAG, FAISS, Next.js, TypeScript, Supabase, Vercel |
 | **[NUCPA — Competitive Programming Arena](https://github.com/abdelrahman-a99/NUCPA-Front)** | Competition registration and administration platform with team registration, admin dashboard, document verification, status management, and contest pages. | Next.js, React, TypeScript, Tailwind CSS, Django, PostgreSQL, REST APIs |
 | **[Portfolio Website](https://abdelrahmanahmedfouad.vercel.app/)** | Responsive personal portfolio showcasing projects, skills, experience, and contact information. | Next.js, React, TypeScript, Tailwind CSS, Vercel |
 
 ---
 
-## What I'm Interested In
-
-- Full-stack engineering with **.NET, Django, FastAPI, Next.js, and React**
-- Backend systems, APIs, databases, authentication, and clean architecture
-- AI/RAG systems, LLM orchestration, AI agents, and applied NLP systems
-- R&D-oriented software projects combining AI with practical user-facing platforms
-- Competitive programming, algorithms, and problem-solving
-
----
-
 ## Experience Highlights
 
+- **NLP Engineer Intern — National Telecommunication Institute (NTI)**  
+  Developed NLP pipelines and applications using PyTorch, TensorFlow, Hugging Face, and LangChain, with work on RAG, model evaluation, and deployment.
+
 - **Software Engineering Instructor — iSchool**  
-  Teaching programming and web development to 80+ learners through Digital Egypt training initiatives.
+  Taught AI and web development to 80+ learners through Digital Egypt training initiatives, using Python, HTML, CSS, and JavaScript.
 
 - **Junior Teaching Assistant — Nile University**  
   Mentored 150+ students in Python, C++, Java, data structures, algorithms, and programming fundamentals.
 
-- **.NET Full Stack Developer Graduate — DEPI**  
+- **.NET Full Stack Trainee — Digital Egypt Pioneers Initiative (DEPI)**
   Built full-stack applications using C#, .NET Core, ASP.NET MVC, SQL Server, Docker, unit testing, and Git/GitHub workflows.
 
 - **Software Engineering Mentor — GDG & Microsoft Students Club, Nile University**  
@@ -95,9 +94,9 @@ I build full-stack web applications and AI-integrated software systems using mod
 ## Competitive Programming
 
 - **Codeforces Specialist** — Max Rating: **1428**
-- Solved **487+ Codeforces problems** and **500+ problems across platforms**
+- Solved **500+ programming problems** across competitive programming platforms
 - Participated in **2024 & 2025 ECPC Qualifications**
-- Completed **NU ICPC Levels 0, 1, and 2** and **Assiut Sheet**
+- Codeforces: [fzlka](https://codeforces.com/profile/fzlka)
 
 ---
 
@@ -106,5 +105,4 @@ I build full-stack web applications and AI-integrated software systems using mod
 - Portfolio: [abdelrahmanahmedfouad.vercel.app](https://abdelrahmanahmedfouad.vercel.app/)
 - LinkedIn: [linkedin.com/in/abdelrahman-ahmed-fouad](https://www.linkedin.com/in/abdelrahman-ahmed-fouad)
 - Hugging Face: [huggingface.co/Abdelrahman-a99](https://huggingface.co/Abdelrahman-a99)
-- Codeforces: [codeforces.com/profile/fzlka](https://codeforces.com/profile/fzlka)
 - Email: **AbdelrahmanAhmedFouad9@gmail.com**
